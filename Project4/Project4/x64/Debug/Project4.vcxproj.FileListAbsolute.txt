@@ -1,0 +1,4 @@
+D:\універ\2 куркурс\зимня практика\Project4\Project4\x64\Debug\Project4.vcxproj.AssemblyReference.cache
+D:\універ\2 куркурс\зимня практика\Project4\Project4\x64\Debug\Project4.MyForm.resources
+D:\універ\2 куркурс\зимня практика\Project4\Project4\x64\Debug\Project4.vcxproj.GenerateResource.cache
+D:\універ\2 куркурс\зимня практика\Project4\Project4\x64\Debug\Project4.vcxproj.Up2Date
