@@ -1,0 +1,3 @@
+D:\універ\2 куркурс\зимня практика\Project5\Project5\x64\Debug\Project5.vcxproj.AssemblyReference.cache
+D:\універ\2 куркурс\зимня практика\Project5\Project5\x64\Debug\Project5.MyForm.resources
+D:\універ\2 куркурс\зимня практика\Project5\Project5\x64\Debug\Project5.vcxproj.GenerateResource.cache
